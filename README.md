@@ -2,15 +2,10 @@
 
 ###  Objectifs :
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/444px-Apache_NetBeans_Logo.svg.png?20180920122700" width="96" height="110"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" width="116" height="130"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="96" height="130"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" width="120" height="110"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/2560px-Git-logo.svg.png" width="250" height="100"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="100" height="100">
+
+
 1. mettre ne oeuvre les technologies web pour créer et héberger mon portfolio
-
-|![netbeanslogo](https://github.com/Xelovnight/enzo.github.io/assets/153280657/347ecfef-0a51-49d1-8865-9ae225327da0)![HTML5_logo_and_wordmark svg](https://github.com/Xelovnight/enzo.github.io/assets/153280657/40cf3136-0077-49f3-82c6-e2a2ef9f33aa)![CSS3_logo_and_wordmark svg](https://github.com/Xelovnight/enzo.github.io/assets/153280657/1a50af96-0c99-4137-982b-f4c0b6661b85)
-![logo bootstrap](https://github.com/Xelovnight/enzo.github.io/assets/153280657/6b1c6410-4a9b-47f8-815f-4fecda1e4aab)
-![logo git](https://github.com/Xelovnight/enzo.github.io/assets/153280657/49c90867-be8f-4aee-a53c-976c658541fa)
-![logo github](https://github.com/Xelovnight/enzo.github.io/assets/153280657/18bbec9a-83e2-4c69-84a2-ceea3adfc0de)
-
-
-
   
   - NetBeans : Environement de développement intégré (IDE) utilisé pour ce projet
   - HTML : Langage de description utilisé pour concevoir les pages webs
